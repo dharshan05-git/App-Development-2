@@ -1,0 +1,6 @@
+{
+  "name": "DS Jewellery — Luxury Mobile Commerce",
+  "description": "Crafting Elegance, Celebrating Forever. Luxury jewellery commerce mobile app with live gold rate tracking, BIS hallmark vault, AR try-on, and bespoke bridal consultation.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
